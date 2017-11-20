@@ -10,7 +10,7 @@ public class Hello {
     @GetMapping("/hi")
     public String hi() {
 
-        return "hi there now" ;
+        return "hi there now, and test" ;
     }
 
 }
